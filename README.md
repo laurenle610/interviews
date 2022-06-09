@@ -1,1 +1,21 @@
-# interviews
+## BRAINSTORMING PROJECTS
+- Social media app
+- eCommerse app
+- To do app
+- Admin app interface
+- Weather app
+- Blog
+- Photo gallery
+  - search
+  - pinning favorite images to your profile
+  - commenting on images
+  - reporting images
+- Messaging app
+  - send
+  - undo send
+    - add the client side "send/undo" feature the mobile team did in their EPD demo
+  - react to messages
+  - expire messages
+    - there could be a security gotcha here where the hiding is done on the FE, but the data is still visible if you look at the requests
+  - load up conversations from different people
+    - performance gotcha here where we can load up all conversation data instead of loading up individual conversations
